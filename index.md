@@ -3,7 +3,7 @@
 ## Favorite Things About CS193
  - Now I have a GitHub
  - Not a 7:30 class
- - No homework yet?
+ - No homework yet (or ever?)
 
 
 
