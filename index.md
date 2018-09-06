@@ -1,3 +1,12 @@
+# Chris Koehne's first CS193 Lab
+
+## Favorite Things About CS193
+ - Now I have a GitHub
+ - Not a 7:30 class
+ - No homework yet?
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
